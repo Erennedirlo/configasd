@@ -1,0 +1,68 @@
+{
+   "checksum": "30b591646d51fdbdf555fc4e1d1ccd7d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304031205347821",
+            "date_last_used": "13311365930959777",
+            "guid": "b92b8a4a-3d8a-4ec2-8327-cb4db05754b7",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13304031717120009",
+            "date_last_used": "0",
+            "guid": "c75f85cb-7123-46f2-ad8d-4c3fba8049c8",
+            "id": "7",
+            "name": "Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/"
+         }, {
+            "date_added": "13304031735215815",
+            "date_last_used": "0",
+            "guid": "c036c2bf-bc3d-49ae-8449-43894ad8a5e8",
+            "id": "8",
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13304191126890481",
+            "date_last_used": "0",
+            "guid": "aad6b1a0-a602-4cc8-a9c0-ffcf3af0b668",
+            "id": "10",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         } ],
+         "date_added": "13304031143384859",
+         "date_last_used": "0",
+         "date_modified": "13304191126890481",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13304031143384860",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13304031143384862",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,1 @@
+[2022-10-19 10:26:28.657] [renderer1] [critical] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag

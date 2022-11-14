@@ -1,0 +1,8 @@
+[2022-11-02 09:26:46.671] [sharedprocess] [info] Starting worker process with pid 26810 (type: fileWatcher, window: 1).
+[2022-11-02 09:26:50.687] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-11-02 09:26:52.011] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-11-02 09:26:54.549] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/zekvaneren/.config/Code - OSS/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.16.3
+[2022-11-02 09:26:54.659] [sharedprocess] [info] Extracted extension to /home/zekvaneren/.vscode-oss/extensions/.aeaa92d8-443f-4985-8125-adc4ae1f557d: jeff-hykin.better-cpp-syntax
+[2022-11-02 09:26:54.680] [sharedprocess] [info] Renamed to /home/zekvaneren/.vscode-oss/extensions/jeff-hykin.better-cpp-syntax-1.16.3
+[2022-11-02 09:26:54.686] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-11-02 09:26:54.696] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax

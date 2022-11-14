@@ -1,0 +1,13 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1 1 1))
+(palette "Standard")
+(font "CollegiateFLF Medium")
+(font-size 2000)
+(font-size-unit points)
+(hint-style none)
+(language "en")
+(justify center)
+(line-spacing -10)
+
+# end of gimp-text-tool options

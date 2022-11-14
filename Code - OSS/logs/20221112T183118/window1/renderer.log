@@ -1,0 +1,5 @@
+2022-11-12 18:31:25.214 [critical] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2022-11-12 18:31:29.268 [info] [perf] Render performance baseline is 114ms
+2022-11-12 18:31:29.860 [error] [Extension Host] (node:19032) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+2022-11-12 18:31:36.008 [error] Error while registering log channel file:///home/zekvaneren/.config/Code%20-%20OSS/logs/20221112T183118/userDataSync.log Timed out while waiting for file to be created

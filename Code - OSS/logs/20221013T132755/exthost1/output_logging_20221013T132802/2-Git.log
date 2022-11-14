@@ -1,0 +1,10 @@
+[2022-10-13T10:28:06.500Z] Log level: Info
+[2022-10-13T10:28:06.506Z] [info] Validating found git in: git
+[2022-10-13T10:28:06.552Z] [info] Using git 2.38.0 from git
+[2022-10-13T10:28:06.628Z] > git rev-parse --show-toplevel [46ms]
+[2022-10-13T10:28:06.875Z] > git rev-parse --git-dir --git-common-dir [227ms]
+[2022-10-13T10:28:06.896Z] [info] Open repository: /home/zekvaneren
+[2022-10-13T10:28:07.475Z] > git show --textconv :Programming/Codeforces/580C.cpp [23ms]
+[2022-10-13T10:28:07.476Z] > git ls-files --stage -- /home/zekvaneren/Programming/Codeforces/580C.cpp [10ms]
+[2022-10-13T10:28:07.594Z] > git check-ignore -v -z --stdin [4ms]
+[2022-10-13T10:28:16.002Z] > git status -z -uall [9087ms]

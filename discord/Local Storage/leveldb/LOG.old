@@ -1,0 +1,14 @@
+2022/11/09-14:53:19.940 6403 Reusing MANIFEST /home/zekvaneren/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/09-14:53:19.941 6403 Recovering log #206
+2022/11/09-14:53:19.949 6403 Level-0 table #209: started
+2022/11/09-14:53:19.996 6403 Level-0 table #209: 1190284 bytes OK
+2022/11/09-14:53:20.005 6403 Delete type=0 #206
+2022/11/09-14:53:20.005 6429 Compacting 4@0 + 1@1 files
+2022/11/09-14:53:20.072 6429 Generated table #211@0: 119 keys, 1707407 bytes
+2022/11/09-14:53:20.072 6429 Compacted 4@0 + 1@1 files => 1707407 bytes
+2022/11/09-14:53:20.079 6429 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/09-14:53:20.080 6429 Delete type=2 #204
+2022/11/09-14:53:20.080 6429 Delete type=2 #207
+2022/11/09-14:53:20.080 6429 Delete type=2 #202
+2022/11/09-14:53:20.080 6429 Delete type=2 #200
+2022/11/09-14:53:20.080 6429 Delete type=2 #209

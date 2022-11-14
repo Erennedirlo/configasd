@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "material-icon-theme.opacity": 0.75,
+    "editor.fontFamily": "'FiraCode', 'monospace', monospace",
+}

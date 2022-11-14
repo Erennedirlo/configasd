@@ -1,0 +1,7 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(feather yes)
+(threshold 28.199999999999999)
+(draw-mask yes)
+
+# end of gimp-fuzzy-select-tool options

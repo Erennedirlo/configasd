@@ -1,0 +1,6 @@
+2022/11/07-13:42:10.695 583e Creating DB /home/zekvaneren/.config/chromium/Default/IndexedDB/https_usaco.guide_0.indexeddb.leveldb since it was missing.
+2022/11/07-13:42:10.712 583e Reusing MANIFEST /home/zekvaneren/.config/chromium/Default/IndexedDB/https_usaco.guide_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/07-13:42:10.762 5844 Level-0 table #5: started
+2022/11/07-13:42:10.769 5844 Level-0 table #5: 1371 bytes OK
+2022/11/07-13:42:10.784 5844 Delete type=0 #3
+2022/11/07-13:42:10.784 5844 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

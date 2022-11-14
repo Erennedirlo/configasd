@@ -1,0 +1,9 @@
+# GIMP gimp-foreground-select-tool options
+
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0.52941179275512695 0.56078433990478516 0.52941179275512695))
+(draw-mode background)
+(stroke-width 89)
+(engine global)
+
+# end of gimp-foreground-select-tool options

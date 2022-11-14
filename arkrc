@@ -1,0 +1,43 @@
+[CreateDialog]
+LastMimeType=application/zip
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/,$HOME/Desktop/,$HOME/.icons/,$HOME/Downloads/ibm/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/.themes/,file:$HOME/.icons/,file:$HOME/Desktop/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA1IAAAGIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 Height 1920x1080=1001
+eDP-1 Height 1920x1080 eDP-1=454
+eDP-1 Width 1920x1080=941
+eDP-1 Width 1920x1080 eDP-1=850
+eDP-1 XPosition 1920x1080=967
+eDP-1 XPosition 1920x1080 eDP-1=1060
+eDP-1 YPosition 1920x1080=62
+eDP-1 YPosition 1920x1080 eDP-1=616
+eDP1 Height 1920x1080=484
+eDP1 Width 1920x1080=455
+eDP1 XPosition 1920x1080=970
+eDP1 YPosition 1920x1080=576
+splitterSizes=424,212
+
+[Open-with settings]
+CompletionMode=1
+History=firef
+
+[Viewer]
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAccAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 Height 1920x1080=484
+eDP1 Width 1920x1080=455
+eDP1 XPosition 1920x1080=1445
+eDP1 YPosition 1920x1080=576

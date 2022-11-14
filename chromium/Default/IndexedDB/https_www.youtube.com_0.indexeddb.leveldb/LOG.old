@@ -1,0 +1,6 @@
+2022/10/27-20:38:48.908 45c8 Reusing MANIFEST /home/zekvaneren/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/27-20:38:48.909 45c8 Recovering log #65
+2022/10/27-20:38:48.929 45c8 Reusing old log /home/zekvaneren/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000065.log 
+2022/10/27-20:39:52.116 45c9 Level-0 table #70: started
+2022/10/27-20:39:52.152 45c9 Level-0 table #70: 1067945 bytes OK
+2022/10/27-20:39:52.160 45c9 Delete type=0 #65

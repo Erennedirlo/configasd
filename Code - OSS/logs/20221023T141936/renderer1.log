@@ -1,0 +1,10 @@
+[2022-10-23 14:19:41.770] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:95786)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:95026)
+    at async r.doSetInput (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:6429)
+    at async r.doOpenEditor (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:4791)
+    at async r.openEditor (vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2739:3783)
+    at async vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/workbench/workbench.desktop.main.js:2966:16842
+[2022-10-23 14:19:42.548] [renderer1] [critical] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-10-23 14:19:52.504] [renderer1] [error] [Extension Host] (node:7766) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

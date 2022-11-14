@@ -1,0 +1,6 @@
+2022/11/13-19:35:40.279 20f3 Reusing MANIFEST /home/zekvaneren/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/13-19:35:40.279 20f3 Recovering log #210
+2022/11/13-19:35:40.283 20f3 Reusing old log /home/zekvaneren/.config/discord/Local Storage/leveldb/000210.log 
+2022/11/13-19:37:51.030 2140 Level-0 table #214: started
+2022/11/13-19:37:51.068 2140 Level-0 table #214: 1195739 bytes OK
+2022/11/13-19:37:51.074 2140 Delete type=0 #210

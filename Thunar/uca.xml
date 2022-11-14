@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>/home/zekvaneren/.icons/Gruvbox-Material-Dark/16x16/apps/catfish.svg</icon>
+	<name>Search with Catfish</name>
+	<unique-id>1658659211699425-1</unique-id>
+	<command>/usr/bin/catfish %f</command>
+	<description>Search files</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1657656248664058-1</unique-id>
+	<command>/usr/local/bin/st %f</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+</actions>

@@ -1,0 +1,5 @@
+[2022-10-13 13:28:00.911] [renderer1] [critical] Extension 'ms-vscode.cpptools CANNOT USE these API proposals 'terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-10-13 13:28:06.472] [renderer1] [error] [Extension Host] (node:23671) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-10-13 13:28:23.779] [renderer1] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/zekvaneren/.config/Code - OSS/logs/20221005T091729/output_1_20221005T091730' failed: No such file or directory (EUNKNOWN) (path: /home/zekvaneren)
+[2022-10-13 13:28:23.780] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/zekvaneren/.config/Code - OSS/logs/20221005T091729/output_1_20221005T091730' failed: No such file or directory

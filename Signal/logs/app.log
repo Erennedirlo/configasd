@@ -1,0 +1,128 @@
+{"level":30,"time":"2022-09-20T08:32:00.575Z","pid":20015,"hostname":"void","msg":"@signalapp/libsignal-client Initializing libsignal version:0.20.0 signal_node::logging rust/bridge/node/src/logging.rs:133"}
+{"level":30,"time":"2022-09-20T08:32:00.903Z","pid":20017,"hostname":"void","msg":"Profile Service initialized"}
+{"level":30,"time":"2022-09-20T08:32:01.057Z","pid":20017,"hostname":"void","msg":"x-attr dependency did not load successfully"}
+{"level":30,"time":"2022-09-20T08:32:01.179Z","pid":20017,"hostname":"void","msg":"preload complete"}
+{"level":30,"time":"2022-09-20T08:32:01.182Z","pid":20017,"hostname":"void","msg":"@signalapp/libsignal-client Initializing libsignal version:0.20.0 signal_node::logging rust/bridge/node/src/logging.rs:133"}
+{"level":30,"time":"2022-09-20T08:32:01.289Z","pid":20017,"hostname":"void","msg":"NotificationService initialized"}
+{"level":30,"time":"2022-09-20T08:32:01.290Z","pid":20017,"hostname":"void","msg":"initializeMessageCounter: picking stored counter"}
+{"level":30,"time":"2022-09-20T08:32:01.290Z","pid":20017,"hostname":"void","msg":"Our profile key service: initializing"}
+{"level":30,"time":"2022-09-20T08:32:01.319Z","pid":20017,"hostname":"void","msg":"background page reloaded"}
+{"level":30,"time":"2022-09-20T08:32:01.319Z","pid":20017,"hostname":"void","msg":"environment: production"}
+{"level":30,"time":"2022-09-20T08:32:01.430Z","pid":20017,"hostname":"void","msg":"Checking for the existence of IndexedDB data..."}
+{"level":30,"time":"2022-09-20T08:32:01.746Z","pid":20017,"hostname":"void","msg":"Storage fetch"}
+{"level":40,"time":"2022-09-20T08:32:01.748Z","pid":20017,"hostname":"void","msg":"SocketManager authenticate was called without credentials"}
+{"level":30,"time":"2022-09-20T08:32:01.748Z","pid":20017,"hostname":"void","msg":"conversation job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.748Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"conversation\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"single proto job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"single proto\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"delivery receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"read receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"viewed receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"read sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"view sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"view sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"view once open sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"view once open sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"remove storage key job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.749Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-09-20T08:32:01.750Z","pid":20017,"hostname":"void","msg":"report spam job queue: starting to stream jobs"}
+{"level":30,"time":"2022-09-20T08:32:01.750Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"report spam\""}
+{"level":30,"time":"2022-09-20T08:32:01.750Z","pid":20017,"hostname":"void","msg":"Initializing MessageReceiver"}
+{"level":30,"time":"2022-09-20T08:32:01.750Z","pid":20017,"hostname":"void","msg":"Sender certificate service initialized"}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"conversation\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"single proto\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"view sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"view once open sync\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-09-20T08:32:01.752Z","pid":20017,"hostname":"void","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"report spam\""}
+{"level":30,"time":"2022-09-20T08:32:01.820Z","pid":20017,"hostname":"void","msg":"data.startInRendererProcess: switching to renderer process"}
+{"level":30,"time":"2022-09-20T08:32:01.831Z","pid":20017,"hostname":"void","msg":"data.startInRendererProcess: switched to renderer process"}
+{"level":30,"time":"2022-09-20T08:32:01.831Z","pid":20017,"hostname":"void","msg":"Starting background data migration. Target version: 10"}
+{"level":30,"time":"2022-09-20T08:32:01.831Z","pid":20017,"hostname":"void","msg":"GET (WS) https://chat.signal.org/v1/config"}
+{"level":30,"time":"2022-09-20T08:32:01.832Z","pid":20017,"hostname":"void","msg":"SocketManager: connecting unauthenticated socket"}
+{"level":40,"time":"2022-09-20T08:32:01.838Z","pid":20017,"hostname":"void","msg":"Failed to parse integer out of desktop.retryReceiptLifespan feature flag"}
+{"level":30,"time":"2022-09-20T08:32:01.838Z","pid":20017,"hostname":"void","msg":"RetryPlaceholders.constructor: Started with 0 items, lifespan of 3600000"}
+{"level":30,"time":"2022-09-20T08:32:01.839Z","pid":20017,"hostname":"void","msg":"ConversationController: starting initial fetch"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"SignalProtocolStore: Finished caching identityKeys data"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"SignalProtocolStore: Finished caching sessions data"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"SignalProtocolStore: Finished caching preKeys data"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"SignalProtocolStore: Finished caching senderKeys data"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"SignalProtocolStore: Finished caching signedPreKeys data"}
+{"level":30,"time":"2022-09-20T08:32:01.841Z","pid":20017,"hostname":"void","msg":"ConversationController: done with initial fetch"}
+{"level":30,"time":"2022-09-20T08:32:01.843Z","pid":20017,"hostname":"void","msg":"checkForConflicts: starting..."}
+{"level":30,"time":"2022-09-20T08:32:01.843Z","pid":20017,"hostname":"void","msg":"checkForConflicts: complete!"}
+{"level":30,"time":"2022-09-20T08:32:01.844Z","pid":20017,"hostname":"void","msg":"Storage/getItemsState: now preparing copy of items..."}
+{"level":30,"time":"2022-09-20T08:32:01.846Z","pid":20017,"hostname":"void","msg":"challenge: loading 0 challenges"}
+{"level":30,"time":"2022-09-20T08:32:01.846Z","pid":20017,"hostname":"void","msg":"Initializing network observer"}
+{"level":30,"time":"2022-09-20T08:32:01.855Z","pid":20017,"hostname":"void","msg":"Build expires:  2022-12-15T17:39:41.000Z"}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"BadgeDownloader#checkForFilesToDownload: downloading 0 badge(s)"}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"Expiration start timestamp cleanup: starting..."}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"Expiration start timestamp cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"Expiration start timestamp cleanup: Cancelling update; we don't have our own UUID"}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"Expiration start timestamp cleanup: complete"}
+{"level":30,"time":"2022-09-20T08:32:01.856Z","pid":20017,"hostname":"void","msg":"listening for registration events"}
+{"level":30,"time":"2022-09-20T08:32:01.873Z","pid":20017,"hostname":"void","msg":"src/core/call_manager.rs:396 RingRTC v2.21.0"}
+{"level":30,"time":"2022-09-20T08:32:02.866Z","pid":20017,"hostname":"void","msg":"checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2022-09-20T08:32:02.866Z","pid":20017,"hostname":"void","msg":"checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2022-09-20T08:32:03.087Z","pid":20017,"hostname":"void","msg":"provisioning socket open"}
+{"level":30,"time":"2022-09-20T08:32:03.318Z","pid":20017,"hostname":"void","msg":"SocketManager: connected unauthenticated socket"}
+{"level":30,"time":"2022-09-20T08:32:03.318Z","pid":20017,"hostname":"void","msg":"SocketManager: starting expiration timer for unauthenticated socket"}
+{"level":50,"time":"2022-09-20T08:32:03.525Z","pid":20017,"hostname":"void","msg":"Got 401 from Signal Server. We might be unlinked."}
+{"level":30,"time":"2022-09-20T08:32:03.525Z","pid":20017,"hostname":"void","msg":"reconnectToWebSocket starting..."}
+{"level":30,"time":"2022-09-20T08:32:03.525Z","pid":20017,"hostname":"void","msg":"SocketManager.onOffline"}
+{"level":40,"time":"2022-09-20T08:32:03.525Z","pid":20017,"hostname":"void","msg":"WebSocket: closing socket unauthenticated"}
+{"level":30,"time":"2022-09-20T08:32:03.525Z","pid":20017,"hostname":"void","msg":"WebSocketResource.close()"}
+{"level":30,"time":"2022-09-20T08:32:03.526Z","pid":20017,"hostname":"void","msg":"SocketManager.onOnline"}
+{"level":50,"time":"2022-09-20T08:32:03.526Z","pid":20017,"hostname":"void","msg":"GET (WS) https://chat.signal.org/v1/config 401 Error"}
+{"level":30,"time":"2022-09-20T08:32:03.526Z","pid":20017,"hostname":"void","msg":"reconnectToWebSocket complete."}
+{"level":50,"time":"2022-09-20T08:32:03.528Z","pid":20017,"hostname":"void","msg":"Top-level unhandled promise rejection: HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/resources/app.asar/preload.bundle.js:124596:10)\n    at _promiseAjax ([REDACTED]/resources/app.asar/preload.bundle.js:124545:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async _retryAjax ([REDACTED]/resources/app.asar/preload.bundle.js:124579:12)\n    at async _ajax ([REDACTED]/resources/app.asar/preload.bundle.js:124876:16)\n    at async Object.getConfig ([REDACTED]/resources/app.asar/preload.bundle.js:124951:19)\n    at async refreshRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:55100:25)\n    at async Object.initRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:55075:3)\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/resources/app.asar/preload.bundle.js:124592:19)\n    at _ajax ([REDACTED]/resources/app.asar/preload.bundle.js:124876:22)\n    at Object.getConfig ([REDACTED]/resources/app.asar/preload.bundle.js:124951:25)\n    at refreshRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:55100:38)\n    at invokeFunc ([REDACTED]/resources/app.asar/preload.bundle.js:4749:28)\n    at leadingEdge ([REDACTED]/resources/app.asar/preload.bundle.js:4755:30)\n    at debounced ([REDACTED]/resources/app.asar/preload.bundle.js:4797:24)\n    at Object.initRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:55075:9)\n    at [REDACTED]/resources/app.asar/preload.bundle.js:221477:32\n    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":40,"time":"2022-09-20T08:32:03.601Z","pid":20017,"hostname":"void","msg":"WebSocketResource: Socket closed"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"background/shutdown"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"background/shutdown: shutting down messageReceiver"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"MessageReceiver.stopProcessing"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"batcher#waitForAllBatchers"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing messageBatcher.updateMessageBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete messageBatcher.updateMessageBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.993Z","pid":20017,"hostname":"void","msg":"Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"background/shutdown: flushing conversations"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"background/shutdown: waiting for all batchers"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"batcher#waitForAllBatchers"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing messageBatcher.updateMessageBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete messageBatcher.updateMessageBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"waitBatcher#waitForAllWaitBatchers"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"background/shutdown: closing the database"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"Client.shutdown"}
+{"level":30,"time":"2022-09-20T08:32:04.994Z","pid":20017,"hostname":"void","msg":"data.shutdown: shutdown requested. 0 jobs outstanding"}
+{"level":30,"time":"2022-09-20T08:32:05.012Z","pid":20017,"hostname":"void","msg":"NotificationService: clearing notification and updating"}
+{"level":30,"time":"2022-09-20T08:32:05.013Z","pid":20017,"hostname":"void","msg":"NotificationService not updating notifications. Notifications are disabled; app is not focused; there is no notification data"}

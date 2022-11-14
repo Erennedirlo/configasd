@@ -1,0 +1,26 @@
+2022/08/15-21:11:26.222 76b9 Reusing MANIFEST /home/zekvaneren/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/15-21:11:26.222 76b9 Recovering log #564
+2022/08/15-21:11:26.309 76b9 Reusing old log /home/zekvaneren/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000564.log 
+2022/08/15-21:11:29.190 769d Level-0 table #584: started
+2022/08/15-21:11:29.243 769d Level-0 table #584: 1247228 bytes OK
+2022/08/15-21:11:29.250 769d Delete type=0 #564
+2022/08/15-21:11:29.255 769d Compacting 1@0 + 0@1 files
+2022/08/15-21:11:29.314 769d Generated table #585@0: 22661 keys, 518321 bytes
+2022/08/15-21:11:29.318 769d Generated table #586@0: 202 keys, 4230 bytes
+2022/08/15-21:11:29.318 769d Compacted 1@0 + 0@1 files => 522551 bytes
+2022/08/15-21:11:29.325 769d compacted to: files[ 0 2 14 0 0 0 0 ]
+2022/08/15-21:11:29.326 769d Delete type=2 #584
+2022/08/15-21:11:30.372 769b Compacting 1@1 + 10@2 files
+2022/08/15-21:11:30.516 769b Generated table #587@1: 38164 keys, 2270092 bytes
+2022/08/15-21:11:30.585 769b Generated table #588@1: 19311 keys, 2218943 bytes
+2022/08/15-21:11:30.637 769b Generated table #589@1: 3020 keys, 2165127 bytes
+2022/08/15-21:11:30.694 769b Generated table #590@1: 4024 keys, 2168619 bytes
+2022/08/15-21:11:30.750 769b Generated table #591@1: 4699 keys, 2163573 bytes
+2022/08/15-21:11:30.905 769b Generated table #592@1: 28871 keys, 2239983 bytes
+2022/08/15-21:11:31.038 769b Generated table #593@1: 26566 keys, 2268763 bytes
+2022/08/15-21:11:31.179 769b Generated table #594@1: 26441 keys, 2262527 bytes
+2022/08/15-21:11:31.233 769b Generated table #595@1: 8222 keys, 2130542 bytes
+2022/08/15-21:11:31.324 769b Generated table #596@1: 55767 keys, 2193018 bytes
+2022/08/15-21:11:31.339 769b Generated table #597@1: 7320 keys, 169695 bytes
+2022/08/15-21:11:31.339 769b Compacted 1@1 + 10@2 files => 22250882 bytes
+2022/08/15-21:11:31.355 769b compacted to: files[ 0 1 15 0 0 0 0 ]

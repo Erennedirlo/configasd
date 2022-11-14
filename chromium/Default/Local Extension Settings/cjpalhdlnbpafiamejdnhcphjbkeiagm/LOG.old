@@ -1,0 +1,25 @@
+2022/11/01-22:30:34.941 1014 Reusing MANIFEST /home/zekvaneren/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/11/01-22:30:34.941 1014 Recovering log #91
+2022/11/01-22:30:34.946 1014 Reusing old log /home/zekvaneren/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000091.log 
+2022/11/01-22:34:30.008 1025 Level-0 table #95: started
+2022/11/01-22:34:30.048 1025 Level-0 table #95: 2482785 bytes OK
+2022/11/01-22:34:30.055 1025 Delete type=0 #91
+2022/11/01-22:34:30.055 1025 Compacting 4@0 + 3@1 files
+2022/11/01-22:34:30.087 1025 Generated table #96@0: 14 keys, 2139399 bytes
+2022/11/01-22:34:30.124 1025 Generated table #97@0: 22 keys, 2104204 bytes
+2022/11/01-22:34:30.131 1025 Generated table #98@0: 5 keys, 170081 bytes
+2022/11/01-22:34:30.131 1025 Compacted 4@0 + 3@1 files => 4413684 bytes
+2022/11/01-22:34:30.137 1025 compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/11/01-22:34:30.138 1025 Delete type=2 #85
+2022/11/01-22:34:30.138 1025 Delete type=2 #86
+2022/11/01-22:34:30.138 1025 Delete type=2 #95
+2022/11/01-22:34:30.138 1025 Delete type=2 #88
+2022/11/01-22:34:30.138 1025 Delete type=2 #90
+2022/11/01-22:34:30.138 1025 Delete type=2 #92
+2022/11/01-22:34:30.138 1025 Delete type=2 #84
+2022/11/01-22:35:45.885 1025 Level-0 table #100: started
+2022/11/01-22:35:45.916 1025 Level-0 table #100: 1649052 bytes OK
+2022/11/01-22:35:45.932 1025 Delete type=0 #94
+2022/11/01-22:38:50.798 1023 Level-0 table #102: started
+2022/11/01-22:38:50.827 1023 Level-0 table #102: 1327346 bytes OK
+2022/11/01-22:38:50.835 1023 Delete type=0 #99

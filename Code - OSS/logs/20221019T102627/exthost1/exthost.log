@@ -1,0 +1,4 @@
+[2022-10-19 10:26:29.053] [exthost] [info] Extension host with pid 29566 started
+[2022-10-19 10:26:29.053] [exthost] [info] Skipping acquiring lock for /home/zekvaneren/.config/Code - OSS/User/workspaceStorage/a31c3c44fe20e60b5449bb8922b9177b.
+[2022-10-19 10:26:29.056] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-10-19 10:26:29.057] [exthost] [info] Extension host with pid 29566 exiting with code 0

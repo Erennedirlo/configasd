@@ -1,0 +1,8 @@
+[2022-10-17 12:57:37.614] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-17 12:57:38.687] [main] [info] Starting extension host with pid 17573 (fork() took 5 ms).
+[2022-10-17 12:57:59.467] [main] [info] Extension host with pid 17573 exited with code: 0, signal: null.
+[2022-10-17 12:58:00.324] [main] [info] Starting extension host with pid 18729 (fork() took 3 ms).
+[2022-10-17 12:58:18.317] [main] [info] Extension host with pid 18729 exited with code: 0, signal: null.
+[2022-10-17 12:58:19.351] [main] [info] Starting extension host with pid 19633 (fork() took 4 ms).
+[2022-10-17 13:40:22.847] [main] [info] Waiting for extension host with pid 19633 to exit.
+[2022-10-17 13:40:22.876] [main] [info] Extension host with pid 19633 exited with code: 0, signal: null.

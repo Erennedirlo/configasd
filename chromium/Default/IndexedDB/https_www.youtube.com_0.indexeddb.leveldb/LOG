@@ -1,0 +1,9 @@
+2022/10/30-19:57:09.951 3e42 Reusing MANIFEST /home/zekvaneren/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/30-19:57:09.968 3e42 Recovering log #69
+2022/10/30-19:57:09.970 3e42 Reusing old log /home/zekvaneren/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000069.log 
+2022/10/30-19:57:10.227 3e47 Compacting 1@1 + 1@2 files
+2022/10/30-19:57:10.261 3e47 Generated table #72@1: 417 keys, 60270 bytes
+2022/10/30-19:57:10.261 3e47 Compacted 1@1 + 1@2 files => 60270 bytes
+2022/10/30-19:57:10.273 3e47 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/30-19:57:10.273 3e47 Delete type=2 #70
+2022/10/30-19:57:10.274 3e47 Delete type=2 #67
